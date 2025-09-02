@@ -1,6 +1,6 @@
 # Survey-Form
 
-Simple landing page for products in the neighbourhood/community. It solves repairs, maintenance, cheap labour 
+Simple landing page for products in the neighbourhood/community. Some problems it may resolve include repairs, maintenance, cheap labour 
 
 ## Features
 
