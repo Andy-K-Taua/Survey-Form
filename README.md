@@ -1,33 +1,30 @@
-# Survey-Form
+# RevItUp - Community Feedback Platform
 
-Simple landing page for products in the neighbourhood/community. Some problems it may resolve include repairs, maintenance, cheap labour 
+RevItUp is a web-based survey platform designed to empower communities by gathering valuable insights on products. It provides a clean, responsive interface for users to submit reviews, share recommendations, and suggest improvements.
 
 ## Features
+- **Modern User Interface:** Built with a professional, dark-themed design using CSS variables and Google Fonts (Poppins).
+- **Comprehensive Feedback:** Collects detailed information including:
+    - Product names and user roles.
+    - Sentiment analysis (Recommendations).
+    - Multi-select feedback areas (e.g., Performance, Design, Sustainability).
+    - Media uploads (Video capture support).
+    - User identification (Name, License Number, and Post Code).
+- **Responsive Design:** Optimized for mobile, tablet, and desktop viewing using CSS Media Queries.
 
-* Feature 1 - User friendly
-* Feature 2 - Good source of information in the one place
-* Feature 3 - Lightweight
+## Technologies Used
+- **HTML5:** Semantic markup for form elements and structure.
+- **CSS3:** Custom properties (variables), Flexbox, and Media Queries for responsive layout.
+- **Form Inputs:** Utilization of diverse input types (radio, checkbox, dropdown, file-capture, number).
 
-## Future Improvements
+## How to Run
+1. Clone this repository to your local machine.
+2. Open `index.html` in any modern web browser.
 
-1. Adapt modern UI/UX designs
-2. Make it more dynamic
+## Live Demo
+[View Project Here](https://andy-k-taua.github.io/Survey-Form/)
 
-## Installation and Setup
-
-1. Clone the repository: `git clone https://github.com/Andy-K-Taua/Survey-Form.git`
-2. Termnal: `open index.html`
-
-## Contributing
-
-1. Fork the repository
-2. Make your changes
-3. Submit a pull request
-
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-
-## Acknowledgments
-
-* Thanks to future contributors for their help.
+## Project Structure
+- `index.html`: The main structure and form logic.
+- `styles.css`: The styling, background gradients, and responsive layout configurations.
+>>>>>>> 68c2fda (Added README.md and Master)
