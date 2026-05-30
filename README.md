@@ -27,4 +27,4 @@ RevItUp is a web-based survey platform designed to empower communities by gather
 ## Project Structure
 - `index.html`: The main structure and form logic.
 - `styles.css`: The styling, background gradients, and responsive layout configurations.
->>>>>>> 68c2fda (Added README.md and Master)
+
